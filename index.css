@@ -1,0 +1,15 @@
+html { font: 11pt/1.5 monospace; }
+body { margin: 1.5rem 2rem 0; }
+th { text-align: left; }
+table { border-collapse: collapse; }
+table { font-family: sans-serif; font-size: 1.2rem; }
+td, th { padding: .25rem 1.5rem .25rem 0; }
+th { font-family: monospace; }
+svg { margin: 0 2rem; vertical-align: top; }
+code { font-weight: bold; }
+table svg { margin: 0; }
+.words th { text-align: right; }
+.words { border-top: 1rem solid transparent; }
+.words { border-bottom: 2rem solid transparent; }
+h1 { position: fixed; right: 4%; bottom: 2%; }
+h1 { font-size: 20pt; font-family: sans-serif; }
